@@ -40,7 +40,16 @@
         </div>
         <div class="output right border border-white">
             <%   if(flag===2){    %>
-                <h1 class="out-head"><%=dataToSend %></h1>
+                <h1 class="out-head">
+                    <!-- <%=dataToSend %>
+                    <br> -->
+                    <%var res1 = dataToSend.substring(0, 44)%>
+                    <%var res2 = dataToSend.substring(45, 100)%>
+                    <%=res1%>
+                     <br>
+                     <br>
+                     <%=res2%>
+                </h1>
                 <br>
                 <br>
                 <img id="picture" src="../class.png">

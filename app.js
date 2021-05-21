@@ -241,6 +241,9 @@ app.post('/uploadfile', upload.single('myFile'), (req, res, next) => {
       html:output,
       attachments:[
         {
+          filename:'class.png',path:'./class.png'
+        },
+        {
           filename:'plot.png',path:'./plot.png'
         }
       ]
@@ -292,7 +295,8 @@ app.post('/uploadfile2', upload.single('myFile'), (req, res, next) => {
       html:output,
       attachments:[
         {
-          filename:'class.png',path:'./class.png'
+          filename:'class.png',path:'./class.png',
+          
         }
       ]
     };

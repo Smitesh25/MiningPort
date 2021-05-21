@@ -1,4 +1,4 @@
-**USER MANUAL**
+**USER MANUAL** -- ([Video Demo](https://drive.google.com/file/d/1U-Qa-TiNM0yMg5Zl7Idwx7ht3AhiJFEz/view?usp=sharing))
 
 **MINING_PORT- A WEB APPLICATION USED TO DETECT DRIFT AND CLASSIFY DATASET**
 

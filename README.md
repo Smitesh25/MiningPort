@@ -18,14 +18,14 @@ _**How to use the software**_
 (The email id you enter during registration will receive the final results of the project on execution).
 1. In either of the use cases, upload the dataset which is already contained in the project folder named Datasets.
 1. For detecting drift: 
-			1. Click on detect drift button
-			1. Now upload the dataset from the Datasets folder.
-			1. Enter the window length (Eg. 100,500,1000)
-			1. Click on detect drift button
+	1. Click on detect drift button
+	1. Now upload the dataset from the Datasets folder.
+	1. Enter the window length (Eg. 100,500,1000)
+	1. Click on detect drift button
 1. For classification: 
-			1. Click on classify dataset button
-			1. Now upload the dataset from the Datasets folder
-			1. Click on the classify dataset button.
+	1. Click on classify dataset button
+	1. Now upload the dataset from the Datasets folder
+	1. Click on the classify dataset button.
 1. To use other functionalities(About and FAQ), simply click on the About/FAQ button in the navbar. 
 
 

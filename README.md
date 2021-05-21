@@ -1,4 +1,5 @@
-<h1 align="center">MINING_PORT- A WEB APPLICATION USED TO DETECT DRIFT AND CLASSIFY DATASET</h1>
+<h1 align="center">MiningPort</h1>
+**A Web Application used to detect Drift and Classify Dataset**
 
 # [Video Demo](https://drive.google.com/file/d/1U-Qa-TiNM0yMg5Zl7Idwx7ht3AhiJFEz/view?usp=sharing)
 

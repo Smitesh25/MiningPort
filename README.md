@@ -1,7 +1,6 @@
-**USER MANUAL** -- ([Video Demo](https://drive.google.com/file/d/1U-Qa-TiNM0yMg5Zl7Idwx7ht3AhiJFEz/view?usp=sharing))
-
 **MINING_PORT- A WEB APPLICATION USED TO DETECT DRIFT AND CLASSIFY DATASET**
 
+# [View a demo](https://drive.google.com/file/d/1U-Qa-TiNM0yMg5Zl7Idwx7ht3AhiJFEz/view?usp=sharing)
 	
 _**Installation Process**_
 1. Download the Code folder from [here](https://drive.google.com/drive/folders/17T6AFhPrAt_8PGyWBrneISJrU2L9o1bl?usp=sharing) or clone this github repository.

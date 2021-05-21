@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/nJMt99rlbl4KQ7b4TF/giphy.gif">
+<img src="https://media.giphy.com/media/Vfvt9AeSlLwMeW0Zjh/giphy.gif">
 </p>
 	
 _**Installation Process**_

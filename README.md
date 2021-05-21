@@ -14,17 +14,19 @@ Installation Process
 
 
 How to use the software
- Register yourself to access the detect drift and classify dataset use cases. You can also log in using already registered users ids like Username : demo, Password : demo. 
+1. Register yourself to access the detect drift and classify dataset use cases. You can also log in using already registered users ids like Username : demo, Password : demo. 
 (The email id you enter during registration will receive the final results of the project on execution).
-In either of the use cases, upload the dataset which is already contained in the project folder named Datasets.
-For detecting drift: i.Click on detect drift button
-                              ii. Now upload the dataset from the Datasets folder.
-                              iii. Enter the window length (Eg. 100,500,1000)
-                              iv. Click on detect drift button
-For classification: i. Click on classify dataset button
-                                         ii. Now upload the dataset from the Datasets folder
-                                        iii. Click on the classify dataset button.
-To use other functionalities(About and FAQ), simply click on the About/FAQ button in the navbar. 
+1. In either of the use cases, upload the dataset which is already contained in the project folder named Datasets.
+1. For detecting drift: 
+			* Click on detect drift button
+			*  Now upload the dataset from the Datasets folder.
+			* Enter the window length (Eg. 100,500,1000)
+			* Click on detect drift button
+1. For classification: 
+			* Click on classify dataset button
+			* Now upload the dataset from the Datasets folder
+			* Click on the classify dataset button.
+1. To use other functionalities(About and FAQ), simply click on the About/FAQ button in the navbar. 
 
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">MiningPort</h1>
-![logo](https://user-images.githubusercontent.com/58392085/119223875-7798a100-bb19-11eb-8fbf-0323664e6cc5.png)
+[logo](https://user-images.githubusercontent.com/58392085/119223875-7798a100-bb19-11eb-8fbf-0323664e6cc5.png)
 
 
 <h3 align="center">A Web Application used to Detect Drift and Classify Dataset</h3>
